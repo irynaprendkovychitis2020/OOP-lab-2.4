@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  UnitTest2.4.cpp
+C:\Users\computer\Desktop\2 семестр\ООП\лаб 2\лаб 2,4\lab2.4\lab2.4\Matrix.cpp(109,9): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Users\computer\Desktop\2 семестр\ООП\лаб 2\лаб 2,4\lab2.4\lab2.4\Matrix.cpp(126,9): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+     Создается библиотека C:\Users\computer\Desktop\2 семестр\ООП\лаб 2\лаб 2,4\lab2.4\Debug\UnitTest2.4.lib и объект C:\Users\computer\Desktop\2 семестр\ООП\лаб 2\лаб 2,4\lab2.4\Debug\UnitTest2.4.exp
+  UnitTest2.4.vcxproj -> C:\Users\computer\Desktop\2 семестр\ООП\лаб 2\лаб 2,4\lab2.4\Debug\UnitTest2.4.dll

@@ -1,0 +1,6 @@
+﻿  Matrix.cpp
+C:\Users\computer\Desktop\2 семестр\ООП\лаб 2\лаб 2,4\lab2.4\lab2.4\Matrix.cpp(109,9): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Users\computer\Desktop\2 семестр\ООП\лаб 2\лаб 2,4\lab2.4\lab2.4\Matrix.cpp(126,9): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  lab2.4.cpp
+  Создание кода...
+  lab2.4.vcxproj -> C:\Users\computer\Desktop\2 семестр\ООП\лаб 2\лаб 2,4\lab2.4\Debug\lab2.4.exe
